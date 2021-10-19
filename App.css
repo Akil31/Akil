@@ -1,0 +1,9 @@
+*{
+    text-align: center;
+    background-image: url('./image/In.jpg');
+}
+.nav{
+    text-decoration: none;
+    padding: 12px 16px;
+   
+}
